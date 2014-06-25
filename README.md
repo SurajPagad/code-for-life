@@ -1,4 +1,2 @@
 code-for-life
-=============
-
-A Transpositional cipher.
+i like music,movies,coding
